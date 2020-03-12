@@ -1,0 +1,36 @@
+img {
+    display : block;
+    margin-left:auto;
+    margin-right:auto;
+    width : 80%
+}
+
+div {
+    margin-top:30px;
+    margin-bottom:30px;
+    text-align : center;
+    box-sizing : border-box;
+}
+
+li {
+    display : inline-block;
+    margin-left:20px;
+    margin-right:20px;
+}
+a {
+    text-decoration : none;
+    font-family: 'Helvectica';
+    color : #58595B;
+    font-size: 16px;
+}
+
+#nowpage {
+    font-size: 20px;
+    font-weight:800;
+}
+#logo {
+    display:block;
+    margin-top : 80px;
+    width : 165px;
+    height : 58px;
+}
